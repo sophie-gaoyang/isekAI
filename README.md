@@ -52,7 +52,8 @@ minute.
 
 ## Try it
 
-🚧 **The live demo link goes here once it's deployed.** 🚧
+👉 **[isekai-web-pink.vercel.app](https://isekai-web-pink.vercel.app)** — no
+signup beyond a name and email, ~15 minutes.
 
 isekAI is closed-source while we're building it out — this repo is just the
 front door. If you want early access, want to talk about what we're
