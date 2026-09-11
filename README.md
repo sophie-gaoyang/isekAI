@@ -2,18 +2,22 @@
 
 **Try on a job for a day, before you commit years to it.**
 
-isekAI drops you into a realistic, AI-powered "day in the life" of a role you're
-curious about — Product Manager today, more roles coming. You get real
-messages from a boss, a coworker, and a client, real documents to read, and
-real decisions to make. When the workday ends, you get a reflection map of
-what the job asked — and you name how it felt.
+isekAI drops you into a realistic, AI-powered “day in the life” of a role 
+you’re curious about, starting with Product Manager, with more roles coming. 
+You’ll get real messages from a boss, coworker, and client, real documents 
+to work through, and real decisions to make. At the end of the workday, 
+you’ll get a reflection map showing what the role actually asked of you, how the 
+experience felt, and a career portrait card designed to help you evaluate your fit.
+
 
 ## 👉 Try it
 
 **[isekai-web-pink.vercel.app](https://isekai-web-pink.vercel.app)** — no
 signup beyond a name and email, ~15 minutes, real AI, free.
 
-isekAI is closed-source while we build out the roadmap, but this repo serves as our public front door. If you’d like early access to new roles, want to chat about what we’re building, or have feedback after a run, reach out via the email in my [profile README](https://github.com/sophie-gaoyang/Sophie-gaoyang).
+isekAI is closed-source while we build out the roadmap, but this repo serves as our 
+public front door. If you’d like early access to new roles, want to chat about what
+we’re building, or have feedback after a run, reach out via the email in my [profile README](https://github.com/sophie-gaoyang/Sophie-gaoyang).
 
 ![isekAI — landing page, pick a role and clock in](screenshots/landing-clock-in.png)
 
